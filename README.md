@@ -70,3 +70,21 @@ Planned verification
 Limitations and safety
 
 A stretch sensor cannot by itself confirm airflow cessation, and a prototype optical sensor cannot establish a clinical diagnosis. The thresholds, signal quality and finger-detection logic have not been validated. This project is for engineering learning and demonstration only.
+My Contribution
+
+DeepSync was developed as part of a university group engineering project. My primary responsibility was the electronics and hardware development of the prototype.
+
+My contributions included:
+
+* Circuit design: Designing the electronic circuit and planning the connections between the Arduino Nano, sensors, Bluetooth module and LED indicator.
+* Hardware assembly: Building the physical circuit and integrating the electronic components.
+* Prototype testing: Testing the assembled circuit and checking the stretch sensor’s response to manual stretching and release.
+* Programming support: Contributing to the development of the Arduino code and its integration with the hardware.
+
+Testing and Limitations
+
+Initial testing focused on verifying the prototype’s electronic functionality and sensor response.
+
+The stretch sensor was tested through manual extension and release rather than being worn during actual breathing measurements. Consequently, reliable respiratory monitoring and sleep apnoea detection were not clinically validated.
+
+This project provided practical experience in circuit design, electronic prototyping, sensor integration and collaborative engineering development.
